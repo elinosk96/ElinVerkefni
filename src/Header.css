@@ -1,0 +1,24 @@
+.top {
+  background-color: burlywood;
+  padding: 10px;
+}
+
+.top .topInfo {
+  margin: 4px;
+}
+
+.top h3 {
+  display: inline;
+  font-weight: 900;
+  font-size: 24px;
+}
+
+.top span {
+  background-color: rgb(16, 16, 16);
+  color: burlywood;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  font-weight: 500;
+  margin-right: 20px;
+}

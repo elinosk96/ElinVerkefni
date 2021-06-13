@@ -1,0 +1,44 @@
+.CardContainer {
+  margin-top: 20px;
+}
+
+.CardBox {
+  background-color: rgb(40, 40, 40);
+  padding: 5px;
+  border-radius: 20px;
+  border: 20px solid burlywood;
+}
+
+.CardBox h3 {
+  color: burlywood;
+  text-align: center;
+  font-weight: 900;
+}
+
+.CardBox label {
+  margin-top: 5px;
+  width: 100%;
+  color: burlywood;
+  padding-left: 10px;
+}
+.CardBox input {
+  width: 91%;
+  margin-left: 10px;
+}
+
+.CardBox select {
+  margin-left: 10px;
+  width: 27%;
+}
+
+.CardBox button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: burlywood;
+  color: black;
+  width: 91%;
+  font-weight: 400;
+  font-size: larger;
+  border-radius: 5px;
+  font-weight: 800;
+}
